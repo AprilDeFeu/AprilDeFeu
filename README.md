@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AprilDeFeu
+- 👀 I’m interested in CNNs, Deep Learning, and SGD. I love to apply my stuff to astrophysics especially!
+- 🌱 I’m currently learning HTML, CSS, JS, React, and brushing up on C/C++ and C#. I want to learn Front End and build my Full Stack!
+- 💞️ I’m looking to collaborate on projects that can help me learn more and strengthen my overall programming etiquette
+- 📫 Shoot me an email at [April Sada Solomon](mailto:AprilSada@pm.me?subject=[GitHub] Contact Request)
