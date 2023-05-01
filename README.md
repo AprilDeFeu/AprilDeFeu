@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AprilDeFeu
-- 👀 I’m interested in physics engines, machine learning, automation, and music. I love coding physics problems and visualizing them!
-- 🌱 I’m currently learning HTML, CSS, JS, React, and brushing up on C/C++ and C#. I want to learn Front End and build my Full Stack.
-- 💞️ I’m looking to collaborate on projects that can help me learn more and strengthen my overall programming etiquette.
-- 📫 Shoot me an email at AprilSada@pm.me
+- 👋 Hi, I’m @AprilDeFeu, B.Sc. in Physics and Comp. Sci., currently a Communications Software Specialist at CAE Inc.
+- 👀 I’m interested in simulators and game engines. My current job involves communications systems for pilot training sims, but would also be very interested in doing game physics or shader programming.
+- 🌱 In decreasing order of how well I code in them, here's my top programming languages: C/C++, Python, Java, C#, Ocaml, JavaScript, Rust, Kotlin, Go, R, Matlab
+- 💞️ I’m looking to collaborate on projects that can help me push my skills further as I move forward in my career.
+- 📫 Shoot me an email at AprilSada@pm.me in case you're interested!
