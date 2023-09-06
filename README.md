@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AprilDeFeu, B.Sc. in Physics and Comp. Sci., currently a Communications Software Specialist at CAE Inc.
-- 👀 I’m interested in simulators and game engines. My current job involves 3D rendering pipelines in DirectX and OpenGL for private simulation engines, and have professional experience in Unreal Engine
+- 👋 Hi, I’m @AprilDeFeu, B.Sc. in Physics and Comp. Sci., currently a Communication Software Systems Specialist at CAE Inc.
+- 👀 I’m interested in simulators and game engines. My current job involves 3D rendering pipelines in DirectX and OpenGL for private simulation engines, and I have professional experience in Unreal Engine
 - 🌱 In decreasing order of how well I code in them, here's my top programming languages: C/C++, Python, Java, C#, Ocaml, JavaScript, Rust, Kotlin, Go, R, Matlab
 - 💞️ I’m looking to collaborate on projects that can help me push my skills further as I move forward in my career.
 - 📫 Shoot me an email at AprilSada@pm.me in case you're interested!
